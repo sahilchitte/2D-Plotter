@@ -1,5 +1,5 @@
 # 2D-Plotter
-Here i have developed a 2 dimensional X-Y plotter with Driver codes of motors.
+Here i have 2 dimensional X-Y plotter design with Driver codes for its motors(X-Y).
 
 The X-Y plotter is designed to record and plot two dimensional data on a rectangular coordinate system. The material selection of the mechanism was made considering the cost and wide range of applications such as servo motor. Servo motor can be differentiated through the cost, peak torque capability, speed range to compromise the standard and application of the system. The XY gantry model consisting of two motors for Y control with another motor sliding the gantry in the X direction. The design uses two parallel rails for Y-motion with a bar spanning across the rails which holds the end effectors of the system.
 In the other hand, the accuracy of plotting is the main issue to be concerned on the fabrication of X-Y plotter. Few papers have been devoted to plotters in term of their adjustment methods on the accuracy and movement of plotter.
